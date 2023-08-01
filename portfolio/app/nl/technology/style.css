@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
+
+section {
+  font-family: 'VT323', monospace;
+}
+
+.filtered {
+  filter: brightness(90%);
+  height: 200px;
+  width: 100px;
+}
+
+.carousel-item {
+  height: 20px;
+}
